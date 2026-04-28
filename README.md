@@ -83,8 +83,9 @@ uvicorn main:app --reload
 
 ---
 
-## 👩‍💻 Founder
+## 👩‍💻 Founders:
 **Simone Rodrigues** — B.Tech CSE, IIIT Dharwad
+**Saisha Bore** - B.Tech CSE, IIIT Dharwad
+**Hammad Malik**- B.Tech DSAI, IIIT Dharwad
 
 > Need. Match. Done.
-EOF
